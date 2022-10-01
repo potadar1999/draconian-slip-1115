@@ -26,7 +26,7 @@ public class Demo {
 		AllMethodInterface all =new MethodImp();
 		
 		boolean status=true;
-		System.out.println("\n \n ========:::: Automated Student Registration System :::======== \n");
+		System.out.println("\n \n =========:::: Automated Student Registration System :::======== \n");
 		 System.out.println("111. Admin login\r\n"	);
 		while (status) {
 			
