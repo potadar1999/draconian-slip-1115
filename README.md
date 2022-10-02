@@ -19,6 +19,6 @@ In Administrator We find
 7. Course with Batch
 
 In Student we will find . 
-  1.Register himself in a course with a username and password (email should be the username)
-	2. can update this details.
-	3. can see all the available course list and their seat availability.
+1.Register himself in a course with a username and password (email should be the username)
+2. can update this details.
+3. can see all the available course list and their seat availability.
